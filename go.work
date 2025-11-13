@@ -1,0 +1,5 @@
+go 1.24.5
+
+use ./chapter2/chapter2.1
+use ./chapter2/chapter2.5
+use ./excercises/chapter2
